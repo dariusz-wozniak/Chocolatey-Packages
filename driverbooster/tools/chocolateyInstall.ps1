@@ -8,7 +8,7 @@ $validExitCodes = @(0) #please insert other valid exit codes here, exit codes fo
 
 try {
 
-	Install-ChocolateyPackage $packageName $installerType $silentArgs $url -validExitCodes $validExitCodes
+	Install-ChocolateyPackage $packageName $installerType $silentArgs $url -validExitCodes $validExitCodes -checksum $checksum -checksumType $checksumType
 	Write-ChocolateySuccess $packageName
 } catch {
 	Write-ChocolateyFailure $packageName $($_.Exception.Message)
