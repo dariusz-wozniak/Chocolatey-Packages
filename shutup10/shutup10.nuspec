@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>shutup10</id>
+    <version>1.4.1383.1</version>
+    <title>ShutUp10</title>
+    <authors>OO Software</authors>
+    <projectUrl>https://www.oo-software.com/en/shutup10/</projectUrl>
+    <tags>shutup10 windows windows10 antispy</tags>
+    <summary>OO ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.</summary>
+    <description>Using a very simple interface, you decide how Windows 10 should respect your privacy by deciding which unwanted functions should be deactivated. OO ShutUp10 is entirely free and does not have to be installed – it can be simply run directly and immediately on your PC. And it will not install or download retrospectively unwanted or unnecessary software, like so many other programs do these days!</description>
+    </metadata>
+</package>
