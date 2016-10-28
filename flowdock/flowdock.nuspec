@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>flowdock</id>
+    <version>1.0.2</version>
+    <title>Flowdock for Windows</title>
+    <authors>CA Technologies</authors>
+    <owners>CA Technologies</owners>
+    <projectUrl>https://www.flowdock.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Flowdock</description>
+    <summary>Flowdock</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>flowdock</tags>
+  </metadata>
+</package>
