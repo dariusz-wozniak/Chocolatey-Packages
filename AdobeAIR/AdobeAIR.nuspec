@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AdobeAIR</id>
+    <version>23.0.0.257</version>
+    <title>Adobe AIR Runtime</title>
+    <authors>Adobe</authors>
+    <owners>Adobe</owners>
+    <licenseUrl>http://www.adobe.com/products/eulas</licenseUrl>
+    <projectUrl>http://get.adobe.com/air/</projectUrl>
+    <iconUrl>https://github.com/Iristyle/ChocolateyPackages/raw/master/AdobeAIR/AdobeAIR.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adobe AIR is a cross-platform runtime that enables you to use your existing Flash/ActionScript or HTML/JavaScript development skills and tools to build and deploy applications, games, and videos outside the browser and on mobile devices..</description>
+    <summary>Adobe AIR runtime is necessary for AIR based applications.</summary>
+    <releaseNotes>http://helpx.adobe.com/air/air-releasenotes.html</releaseNotes>
+    <tags>web browser AIR</tags>
+  </metadata>
+</package>
