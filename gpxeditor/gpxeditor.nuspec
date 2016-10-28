@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>gpxeditor</id>
+    <version>1.6.15.1635</version>
+    <title>GPX Editor</title>
+    <authors>Pixel K.</authors>
+    <owners>Pixel K.</owners>
+    <projectUrl>https://sourceforge.net/projects/gpxeditor/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>GPX Editor</description>
+    <summary>GPX Editor</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>gpx gps gis</tags>
+  </metadata>
+</package>
