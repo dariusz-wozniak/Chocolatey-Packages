@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>inireloc</id>
+    <version>2004.09.16</version>
+    <title>inireloc</title>
+    <authors>Christian Ghisler</authors>
+    <owners>Christian Ghisler</owners>
+    <projectUrl>http://www.ghisler.com/tools.htm#other</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This tool sets different locations for the files wincmd.ini and wcx_ftp.ini for the program Total Commander.</description>
+    <summary>Tool to set the locations of the Total Commander settings files wincmd.ini and wcx_ftp.ini.</summary>
+    <tags>config configuration</tags>
+  </metadata>
+</package>
