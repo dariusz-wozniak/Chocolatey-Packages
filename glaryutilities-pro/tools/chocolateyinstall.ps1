@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$packageName= 'glaryutilities-free'
+$packageName= 'glaryutilities-pro'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url        = 'http://download.glarysoft.com/gup5setup.exe'
 
@@ -12,7 +12,7 @@ $packageArgs = @{
   validExitCodes= @(0, 3010, 1641)
   silentArgs   = '/S  /NORESTART '
   softwareName  = 'Glary Utilities'
-  checksum      = '1BFBA2B6677D70F48E0661B0367D428D2CEE64C00F22BC9FA31998599F25EF27'
+  checksum      = 'B1C703CDCB645D7E0A512C0C4711587223FC888835DC657457E5CE46A27F5F6A'
   checksumType  = 'sha256'
 }
 
