@@ -4,7 +4,7 @@ $packageArgs = @{
   packageName    = 'shutup10'
   url            = 'https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe'
   FileFullPath   = "OOSU10.exe"
-  checksum       = 'A2F6CF37E12B97F39AC70F72DF2D887EC6690E7F37C87F12D03D6F89DC08CAA8'
+  checksum       = '8BFBCADD6E89C2A4E2E2D52442391E22CBC8CA29D7083C91D8F6F86CC770CF41'
   ChecksumType   = 'sha256'
 }
 
