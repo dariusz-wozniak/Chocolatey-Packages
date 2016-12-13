@@ -12,7 +12,7 @@ $packageArgs = @{
   validExitCodes= @(0, 3010, 1641)
   silentArgs   = '/S  /NORESTART '
   softwareName  = 'Glary Utilities'
-  checksum      = 'B1C703CDCB645D7E0A512C0C4711587223FC888835DC657457E5CE46A27F5F6A'
+  checksum      = 'CA0A92A7A018DA2ADAFF39BA196B0A058D2323618B2DB96F2B160EA8F6BB46DD'
   checksumType  = 'sha256'
 }
 
