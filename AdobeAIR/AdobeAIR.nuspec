@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>AdobeAIR</id>
-    <version>23.0.0.257</version>
+    <version>24.0.0.180</version>
     <title>Adobe AIR Runtime</title>
     <authors>Adobe</authors>
     <owners>Adobe</owners>

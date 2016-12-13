@@ -1,12 +1,12 @@
 $package = 'AdobeAIR'
-$version = '23.0'
+$version = '24.0'
 
 $params = @{
     PackageName = $package;
     FileType = 'exe';
     SilentArgs = '-silent -eulaAccepted';
     Url = "http://airdownload.adobe.com/air/win/download/$version/AdobeAIRInstaller.exe"
-    Checksum = '5867BC3721754148A6DF3E9ECB2D497E1AA4EE00AE1874C93C33700C88362697'
+    Checksum = '9A590EDE7401465D7B78FE1A850E55B077DA497B2274AEDA032CC82F42E91BE3'
     ChecksumType  = 'sha256'
 }
 
