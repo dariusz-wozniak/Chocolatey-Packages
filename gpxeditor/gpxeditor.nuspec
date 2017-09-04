@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>gpxeditor</id>
-    <version>1.6.16</version>
+    <version>1.6.18.1649</version>
     <title>GPX Editor</title>
     <authors>Pixel K.</authors>
     <owners>Pixel K.</owners>
     <projectUrl>https://sourceforge.net/projects/gpxeditor/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>GPX Editor</description>
+    <description>Load, modify and save your GPX 1.1 files. Add and remove waypoints, edit track and routes, simplify tracks (reducing file's size), clean recorded data, add and edit GPX metadata, edit waypoint, route and track properties, all with real-time preview.</description>
     <summary>GPX Editor</summary>
     <releaseNotes />
     <copyright />
