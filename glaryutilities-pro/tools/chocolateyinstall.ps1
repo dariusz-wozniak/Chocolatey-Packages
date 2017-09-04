@@ -10,9 +10,9 @@ $packageArgs = @{
   fileType      = 'EXE'
   url           = $url
   validExitCodes= @(0, 3010, 1641)
-  silentArgs   = '/S  /NORESTART '
+  silentArgs    = '/S  /NORESTART '
   softwareName  = 'Glary Utilities'
-  checksum      = 'CA0A92A7A018DA2ADAFF39BA196B0A058D2323618B2DB96F2B160EA8F6BB46DD'
+  checksum      = 'F5CED8E0BFE0BB7CDC2570C78B573309965EC95D3784C4CE9FAE8993D6F21FBA'
   checksumType  = 'sha256'
 }
 

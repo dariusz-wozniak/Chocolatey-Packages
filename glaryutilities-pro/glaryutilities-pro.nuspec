@@ -2,17 +2,17 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>glaryutilities-pro</id>
-    <version>5.65.0.86</version>
+    <version>5.83.0.104</version>
     <title>Glary Utilities (Pro)</title>
     <authors>Glarysoft Ltd</authors>
     <owners>Glarysoft Ltd</owners>
     <projectUrl>http://www.glarysoft.com/glary-utilities/</projectUrl>
     <iconUrl>http://www.glarysoft.com/images/logo_flat.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Glary Utilities</description>
-    <summary>Glary Utilities</summary>
+    <description>Glary Utilities (Pro)</description>
+    <summary>Glary Utilities (Pro)</summary>
     <releaseNotes />
     <copyright />
-    <tags>glaryutilities admin Glary Utilities free</tags>
+    <tags>glaryutilities admin Glary Utilities</tags>
   </metadata>
 </package>
