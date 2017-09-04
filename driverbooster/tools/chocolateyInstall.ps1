@@ -2,7 +2,7 @@
 $installerType = 'EXE'
 $url = 'http://update.iobit.com/dl/driver_booster_setup.exe'
 $silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
-$checksum = 'F9AB225206FFB8A26A45BA0116E9C7AAF89FFDBDDBA5A0AA1182495633204D3F'
+$checksum = '343AB123A926903E225FC4BA45CEC50EECAD6F978BD522D8891200B64CEBFB4D'
 $checksumType = 'sha256'
 $validExitCodes = @(0) #please insert other valid exit codes here, exit codes for ms http://msdn.microsoft.com/en-us/library/aa368542(VS.85).aspx
 
