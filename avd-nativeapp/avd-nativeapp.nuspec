@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>avd-nativeapp</id>
+    <version>4.1.19</version>
+    <title>avd-nativeapp</title>
+    <authors>Ant</authors>
+    <owners>Ant</owners>
+    <projectUrl>https://www.ant.com/video-downloader/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ant Video downloader (Native messaging host)</description>
+    <summary>Ant Video downloader (Native messaging host)</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>video downloader ant</tags>
+  </metadata>
+</package>
