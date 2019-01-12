@@ -1,15 +1,20 @@
-﻿$packageName = 'driverbooster'
-$installerType = 'EXE'
-$url = 'http://update.iobit.com/dl/driver_booster_setup.exe'
-$silentArgs = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
-$checksum = '2940F764DDD6FDCABBF3698020C8E28B904DEC40BBD2D6FEBE60BB51A88CBE5C'
+﻿$ErrorActionPreference = 'Stop';
+$toolsDir     = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
+$url          = 'http://update.iobit.com/dl/driver_booster_setup.exe'
+$checksum     = '575551850ed9ec4b81507bb4abb8bb428e55576ffee525b836ba53fc3308a3e4'
+ 
 $checksumType = 'sha256'
-$validExitCodes = @(0) #please insert other valid exit codes here, exit codes for ms http://msdn.microsoft.com/en-us/library/aa368542(VS.85).aspx
-
-try {
-	Install-ChocolateyPackage $packageName $installerType $silentArgs $url -validExitCodes $validExitCodes -checksum $checksum -checksumType $checksumType
-	Write-ChocolateySuccess $packageName
-} catch {
-	Write-ChocolateyFailure $packageName $($_.Exception.Message)
-	throw 
+ 
+$packageArgs = @{
+  packageName   = $env:ChocolateyPackageName
+  softwareName  = 'Driver Booster*'
+  fileType      = 'exe'
+  silentArgs    = "/sp- /verysilent /suppressmsgboxes /install_start"
+  validExitCodes= @(0,3010)
+  url           = $url
+  checksum      = $checksum
+  checksumType  = $checksumType
+  destination   = $toolsDir
 }
+ 
+Install-ChocolateyPackage @packageArgs
