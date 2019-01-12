@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>flowdock</id>
-    <version>1.0.2</version>
+    <version>1.0.4.0</version>
     <title>Flowdock for Windows</title>
     <authors>CA Technologies</authors>
     <owners>CA Technologies</owners>
