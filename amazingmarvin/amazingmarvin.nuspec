@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>amazingmarvin</id>
+    <version>1.36.1.0</version>
+    <title>Amazing Marvin</title>
+    <authors>Amazing Marvin</authors>
+    <owners>Amazing Marvin</owners>
+    <projectUrl>https://www.amazingmarvin.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Amazing Marvin</description>
+    <summary>Marvin incorporates principles from behavioral psychology to help you beat procrastination, feel in control and finish your todo list.</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>productivity todo</tags>
+  </metadata>
+</package>
