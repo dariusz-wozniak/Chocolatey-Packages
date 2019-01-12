@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>kantu-xmodules</id>
+    <version>1.0.12.0</version>
+    <title>Kantu XModules</title>
+    <authors>a9t9</authors>
+    <owners>a9t9</owners>
+    <projectUrl>https://a9t9.com/kantu/x/download</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The XModules add real user simulation and direct file access to the open-source Kantu core.</description>
+    <summary> There is a separate XModules installer version for Windows, Mac and Linux. The XModule installer package includes the FileAccess XModule and the RealUser Simulation XModule. The modules works with both, Kantu for Firefox and Chrome. So if you use both Kantu versions, you need to install the XModules only once.
+
+The XModules installers do not include Kantu itself. So you need to you have Kantu already installed.</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>test automation kantu selenium</tags>
+  </metadata>
+</package>
