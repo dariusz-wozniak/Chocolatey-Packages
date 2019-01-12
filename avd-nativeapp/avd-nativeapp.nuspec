@@ -3,7 +3,7 @@
   <metadata>
     <id>avd-nativeapp</id>
     <version>4.1.19</version>
-    <title>avd-nativeapp</title>
+    <title>Ant Video downloader (Native messaging host)</title>
     <authors>Ant</authors>
     <owners>Ant</owners>
     <projectUrl>https://www.ant.com/video-downloader/</projectUrl>
