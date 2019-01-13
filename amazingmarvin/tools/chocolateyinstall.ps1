@@ -12,7 +12,7 @@ $packageArgs = @{
   softwareName  = 'amazingmarvin*'
   checksum      = '524C13903FAD3C8B9428B6580D4CE31DEE3613C0B5C278E59D5F0201DC11C9FB'
   checksumType  = 'sha256'
-  silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
+  silentArgs    = '/S'
   validExitCodes= @(0)
 }
 
