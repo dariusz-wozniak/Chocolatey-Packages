@@ -13,5 +13,9 @@
     <releaseNotes />
     <copyright />
     <tags>gpx gps gis</tags>
+    <licenseUrl>https://sourceforge.net/directory/license:gpl/</licenseUrl>
+    <iconUrl>https://raw.githubusercontent.com/dariusz-wozniak/Chocolatey-Packages/master/gpxeditor/icon.png</iconUrl>
+    <docsUrl>https://sourceforge.net/p/gpxeditor/wiki/Home/</docsUrl>
+    <projectSourceUrl>https://sourceforge.net/projects/gpxeditor/files/GPX%20Editor%20-%20source/</projectSourceUrl>
   </metadata>
 </package>
