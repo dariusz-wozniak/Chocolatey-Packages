@@ -8,10 +8,10 @@
     <owners>CA Technologies</owners>
     <projectUrl>https://www.flowdock.com/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Flowdock</description>
-    <summary>Flowdock</summary>
+    <description>CA Flowdock brings all of your conversations, work items and tools into one place. Prioritize work, solve problems, search and organize across teams, locations and timezones.</description>
+    <summary>CA Flowdock brings all of your conversations, work items and tools into one place. Prioritize work, solve problems, search and organize across teams, locations and timezones.</summary>
     <releaseNotes />
     <copyright />
-    <tags>flowdock</tags>
+    <tags>flowdock commercial communication chat ca</tags>
   </metadata>
 </package>
