@@ -2,7 +2,7 @@ $ErrorActionPreference = 'Stop';
 
 $packageName= 'amazingmarvin'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://s3.amazonaws.com/amazingmarvin/Marvin+Setup+1.36.1.exe'
+$url        = 'http://amazingmarvin.s3-website-us-east-1.amazonaws.com/MarvinSetup.exe'
 
 $packageArgs = @{
   packageName   = $packageName
