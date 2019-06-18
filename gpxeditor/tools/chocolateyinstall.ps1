@@ -1,16 +1,16 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$packageName= 'gpxeditor'
-$toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://netcologne.dl.sourceforge.net/project/gpxeditor/GPX%20Editor/Version%201.06.21/GPX_Editor-1-6-21.zip'
+$packageName = 'gpxeditor'
+$toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
+$url = 'https://datapacket.dl.sourceforge.net/project/gpxeditor/GPX%20Editor/Version%201.07.12/GPX%20Editor%201.7.12.zip'
 
 $packageArgs = @{
-  packageName   = $packageName
-  unzipLocation = $toolsDir
-  url           = $url
-  softwareName  = 'gpxeditor*'
-  checksum      = '8B0E9E86B37B2EA0C06BE9EA18594E870F3F2D3DB18B15B4A109C6727B62A54E'
-  checksumType  = 'sha256'
+    packageName   = $packageName
+    unzipLocation = $toolsDir
+    url           = $url
+    softwareName  = 'gpxeditor*'
+    checksum      = '409E84C417BA3A0B63E4762350205569C36A932043ED431287FFE83B4D16EB7E'
+    checksumType  = 'sha256'
 }
 
 Install-ChocolateyZipPackage @packageArgs
