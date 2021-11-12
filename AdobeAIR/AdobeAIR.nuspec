@@ -2,17 +2,17 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>AdobeAIR</id>
-    <version>32.0.0.125</version>
+    <version>33.1.1.674</version>
     <title>Adobe AIR Runtime</title>
     <authors>Adobe</authors>
-    <owners>Adobe</owners>
-    <licenseUrl>http://www.adobe.com/products/eulas</licenseUrl>
-    <projectUrl>http://get.adobe.com/air/</projectUrl>
+    <owners>HARMAN</owners>
+    <licenseUrl>https://airsdk.harman.com/assets/pdfs/HARMAN%20AIR%20SDK%20License%20Agreement.pdf</licenseUrl>
+    <projectUrl>https://airsdk.harman.com/runtime</projectUrl>
     <iconUrl>https://github.com/Iristyle/ChocolateyPackages/raw/master/AdobeAIR/AdobeAIR.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Adobe AIR is a cross-platform runtime that enables you to use your existing Flash/ActionScript or HTML/JavaScript development skills and tools to build and deploy applications, games, and videos outside the browser and on mobile devices..</description>
+    <description>Adobe AIR is a cross-platform runtime that enables you to use your existing Flash/ActionScript or HTML/JavaScript development skills and tools to build and deploy applications, games, and videos outside the browser and on mobile devices.</description>
     <summary>Adobe AIR runtime is necessary for AIR based applications.</summary>
-    <releaseNotes>http://helpx.adobe.com/air/air-releasenotes.html</releaseNotes>
+    <releaseNotes>https://airsdk.harman.com/release_notes</releaseNotes>
     <tags>web browser AIR</tags>
   </metadata>
 </package>
